@@ -1,0 +1,27 @@
+@font-face {
+    font-family: AvenirB;
+    src: url(/storage/fonts/AvenirLTStd-Black.otf);
+}
+@font-face {
+    font-family: Avenir;
+    src: url(/storage/fonts/AvenirLTStd-Roman.otf);
+}
+
+#num {
+    font-family: AvenirB;
+    color: rgba(37, 37, 37, 0.55);
+    font-size: 1.7vi;
+}
+
+#text {
+    font-family: Avenir;
+    color: rgba(37, 37, 37, 0.8);
+    font-size: 1.5vi;
+}
+
+
+#item1 {
+    font-family: AvenirB;
+    font-size: 5vi;
+    color: #252525;
+}
