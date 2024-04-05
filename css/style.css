@@ -41,7 +41,7 @@ body{
     }
 
     #text{
-        width: 100px;
+        width: 400px;
     }
 
     .item {
@@ -67,5 +67,7 @@ body{
         display: none;
     }
     
+
+
   }
   
