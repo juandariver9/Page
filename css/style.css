@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: 40vh 60vh;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0px;
+    gap: 1px;
+}
+
+.item {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+#item1 {
+    grid-column: span 2;
+}
