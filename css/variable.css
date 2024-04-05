@@ -10,18 +10,32 @@
 #num {
     font-family: AvenirB;
     color: rgba(37, 37, 37, 0.55);
-    font-size: 1.7vi;
+    font-size: 1.6vi;
 }
 
 #text {
     font-family: Avenir;
     color: rgba(37, 37, 37, 0.8);
-    font-size: 1.5vi;
+    font-size: 1.4vi;
 }
 
 
 #item1 {
-    font-family: AvenirB;
-    font-size: 5vi;
+    font-family: Avenir;
+    font-size: 4.5vi;
     color: #252525;
+    font-weight: bold;
+}
+
+#item3 img,
+#item4 img,
+#item5 img {
+    display: block; 
+    margin: 0 auto; 
+}
+
+img {
+    width: 25vw;
+    height: 35vh;
+    padding-top: 10px;
 }
